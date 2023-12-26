@@ -1,7 +1,9 @@
 class MessagesController < ApplicationController
+
   def index
   end
-  def def new
-  
+
+  def new
   end
+
 end
