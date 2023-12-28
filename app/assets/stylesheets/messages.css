@@ -121,17 +121,17 @@
   width: 100%;
   padding-left: 10px;
 }
-  .form-submit {
-    background-color: #38AEF0;
-    color: white;
-    font-size: 16px;
-    height: 50px;
-    padding: 0 20px;
-    margin-left: 15px;
-    border-style: none;
+.form-submit {
+  background-color: #38AEF0;
+  color: white;
+  font-size: 16px;
+  height: 50px;
+  padding: 0 20px;
+  margin-left: 15px;
+  border-style: none;
 
-  }
-  .form-image{
+}
+.form-image{
   font-size: 12px;
   background-color: lightblue;
   color: white;
@@ -139,7 +139,14 @@
   width: 60px;
   margin: 5px 10px;
   text-align: center;
-  }
-  .hidden {
-    display: none;
-  }
+}
+.hidden {
+  display: none;
+}
+
+.form-message {
+  border: none;
+  height: 50px;
+  width: 100%;
+  padding-left: 10px;
+}
